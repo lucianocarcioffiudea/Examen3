@@ -1,0 +1,993 @@
+Ciudad,Fecha,Temperatura
+Bogotá,01/01/2025,13.9
+Bogotá,02/01/2025,14.4
+Bogotá,03/01/2025,13.8
+Bogotá,04/01/2025,14.8
+Bogotá,05/01/2025,14.2
+Bogotá,06/01/2025,14.4
+Bogotá,07/01/2025,14.5
+Bogotá,08/01/2025,13.8
+Bogotá,09/01/2025,14.7
+Bogotá,10/01/2025,14.2
+Bogotá,11/01/2025,14.2
+Bogotá,12/01/2025,14.0
+Bogotá,13/01/2025,14.4
+Bogotá,14/01/2025,13.8
+Bogotá,15/01/2025,14.7
+Bogotá,16/01/2025,14.0
+Bogotá,17/01/2025,14.6
+Bogotá,18/01/2025,13.6
+Bogotá,19/01/2025,13.9
+Bogotá,20/01/2025,14.5
+Bogotá,21/01/2025,14.2
+Bogotá,22/01/2025,14.5
+Bogotá,23/01/2025,14.3
+Bogotá,24/01/2025,13.8
+Bogotá,25/01/2025,14.4
+Bogotá,26/01/2025,14.3
+Bogotá,27/01/2025,14.4
+Bogotá,28/01/2025,13.7
+Bogotá,29/01/2025,14.5
+Bogotá,30/01/2025,14.2
+Bogotá,31/01/2025,14.2
+Medellín,01/01/2025,23.6
+Medellín,02/01/2025,23.6
+Medellín,03/01/2025,23.0
+Medellín,04/01/2025,23.0
+Medellín,05/01/2025,23.0
+Medellín,06/01/2025,22.6
+Medellín,07/01/2025,22.7
+Medellín,08/01/2025,23.5
+Medellín,09/01/2025,22.7
+Medellín,10/01/2025,22.8
+Medellín,11/01/2025,23.4
+Medellín,12/01/2025,23.2
+Medellín,13/01/2025,22.7
+Medellín,14/01/2025,23.2
+Medellín,15/01/2025,23.2
+Medellín,16/01/2025,22.7
+Medellín,17/01/2025,22.5
+Medellín,18/01/2025,22.6
+Medellín,19/01/2025,22.7
+Medellín,20/01/2025,23.3
+Medellín,21/01/2025,23.7
+Medellín,22/01/2025,23.7
+Medellín,23/01/2025,23.6
+Medellín,24/01/2025,22.8
+Medellín,25/01/2025,23.0
+Medellín,26/01/2025,23.5
+Medellín,27/01/2025,23.5
+Medellín,28/01/2025,23.6
+Medellín,29/01/2025,22.6
+Medellín,30/01/2025,23.2
+Medellín,31/01/2025,23.0
+Cali,01/01/2025,26.0
+Cali,02/01/2025,25.6
+Cali,03/01/2025,25.3
+Cali,04/01/2025,25.6
+Cali,05/01/2025,25.4
+Cali,06/01/2025,25.2
+Cali,07/01/2025,25.8
+Cali,08/01/2025,25.4
+Cali,09/01/2025,26.0
+Cali,10/01/2025,25.2
+Cali,11/01/2025,26.0
+Cali,12/01/2025,25.7
+Cali,13/01/2025,25.4
+Cali,14/01/2025,25.3
+Cali,15/01/2025,25.0
+Cali,16/01/2025,25.4
+Cali,17/01/2025,25.9
+Cali,18/01/2025,25.1
+Cali,19/01/2025,25.9
+Cali,20/01/2025,25.6
+Cali,21/01/2025,25.3
+Cali,22/01/2025,25.8
+Cali,23/01/2025,25.1
+Cali,24/01/2025,25.3
+Cali,25/01/2025,26.1
+Cali,26/01/2025,25.8
+Cali,27/01/2025,25.2
+Cali,28/01/2025,25.6
+Cali,29/01/2025,25.8
+Cali,30/01/2025,25.8
+Cali,31/01/2025,25.9
+Barranquilla,01/01/2025,28.6
+Barranquilla,02/01/2025,28.0
+Barranquilla,03/01/2025,27.9
+Barranquilla,04/01/2025,28.9
+Barranquilla,05/01/2025,28.1
+Barranquilla,06/01/2025,28.8
+Barranquilla,07/01/2025,28.8
+Barranquilla,08/01/2025,28.3
+Barranquilla,09/01/2025,27.9
+Barranquilla,10/01/2025,29.0
+Barranquilla,11/01/2025,27.8
+Barranquilla,12/01/2025,28.9
+Barranquilla,13/01/2025,27.8
+Barranquilla,14/01/2025,28.0
+Barranquilla,15/01/2025,28.4
+Barranquilla,16/01/2025,28.5
+Barranquilla,17/01/2025,28.8
+Barranquilla,18/01/2025,28.7
+Barranquilla,19/01/2025,28.6
+Barranquilla,20/01/2025,28.5
+Barranquilla,21/01/2025,28.0
+Barranquilla,22/01/2025,27.9
+Barranquilla,23/01/2025,28.6
+Barranquilla,24/01/2025,28.9
+Barranquilla,25/01/2025,28.7
+Barranquilla,26/01/2025,29.0
+Barranquilla,27/01/2025,27.9
+Barranquilla,28/01/2025,28.8
+Barranquilla,29/01/2025,28.7
+Barranquilla,30/01/2025,28.4
+Barranquilla,31/01/2025,28.5
+Cartagena,01/01/2025,29.3
+Cartagena,02/01/2025,28.5
+Cartagena,03/01/2025,29.4
+Cartagena,04/01/2025,29.2
+Cartagena,05/01/2025,28.5
+Cartagena,06/01/2025,28.9
+Cartagena,07/01/2025,28.6
+Cartagena,08/01/2025,29.2
+Cartagena,09/01/2025,29.1
+Cartagena,10/01/2025,28.8
+Cartagena,11/01/2025,29.6
+Cartagena,12/01/2025,28.6
+Cartagena,13/01/2025,29.4
+Cartagena,14/01/2025,29.7
+Cartagena,15/01/2025,28.6
+Cartagena,16/01/2025,29.7
+Cartagena,17/01/2025,28.7
+Cartagena,18/01/2025,28.8
+Cartagena,19/01/2025,29.2
+Cartagena,20/01/2025,28.9
+Cartagena,21/01/2025,28.9
+Cartagena,22/01/2025,29.5
+Cartagena,23/01/2025,29.6
+Cartagena,24/01/2025,28.9
+Cartagena,25/01/2025,29.0
+Cartagena,26/01/2025,29.7
+Cartagena,27/01/2025,28.9
+Cartagena,28/01/2025,29.1
+Cartagena,29/01/2025,29.0
+Cartagena,30/01/2025,28.9
+Cartagena,31/01/2025,28.5
+Santa Marta,01/01/2025,28.7
+Santa Marta,02/01/2025,28.1
+Santa Marta,03/01/2025,29.0
+Santa Marta,04/01/2025,28.3
+Santa Marta,05/01/2025,28.3
+Santa Marta,06/01/2025,28.6
+Santa Marta,07/01/2025,28.7
+Santa Marta,08/01/2025,28.3
+Santa Marta,09/01/2025,28.4
+Santa Marta,10/01/2025,29.3
+Santa Marta,11/01/2025,29.1
+Santa Marta,12/01/2025,28.8
+Santa Marta,13/01/2025,29.2
+Santa Marta,14/01/2025,29.1
+Santa Marta,15/01/2025,28.8
+Santa Marta,16/01/2025,28.7
+Santa Marta,17/01/2025,28.6
+Santa Marta,18/01/2025,29.1
+Santa Marta,19/01/2025,28.9
+Santa Marta,20/01/2025,28.3
+Santa Marta,21/01/2025,28.1
+Santa Marta,22/01/2025,29.2
+Santa Marta,23/01/2025,29.3
+Santa Marta,24/01/2025,28.5
+Santa Marta,25/01/2025,29.3
+Santa Marta,26/01/2025,29.2
+Santa Marta,27/01/2025,29.2
+Santa Marta,28/01/2025,29.1
+Santa Marta,29/01/2025,28.2
+Santa Marta,30/01/2025,28.2
+Santa Marta,31/01/2025,29.0
+Bucaramanga,01/01/2025,24.8
+Bucaramanga,02/01/2025,24.3
+Bucaramanga,03/01/2025,24.2
+Bucaramanga,04/01/2025,24.9
+Bucaramanga,05/01/2025,23.8
+Bucaramanga,06/01/2025,24.4
+Bucaramanga,07/01/2025,24.8
+Bucaramanga,08/01/2025,24.5
+Bucaramanga,09/01/2025,24.2
+Bucaramanga,10/01/2025,24.0
+Bucaramanga,11/01/2025,24.5
+Bucaramanga,12/01/2025,24.3
+Bucaramanga,13/01/2025,24.5
+Bucaramanga,14/01/2025,23.8
+Bucaramanga,15/01/2025,24.3
+Bucaramanga,16/01/2025,24.6
+Bucaramanga,17/01/2025,24.6
+Bucaramanga,18/01/2025,24.7
+Bucaramanga,19/01/2025,24.1
+Bucaramanga,20/01/2025,24.9
+Bucaramanga,21/01/2025,24.1
+Bucaramanga,22/01/2025,24.7
+Bucaramanga,23/01/2025,24.3
+Bucaramanga,24/01/2025,24.2
+Bucaramanga,25/01/2025,24.6
+Bucaramanga,26/01/2025,24.0
+Bucaramanga,27/01/2025,24.7
+Bucaramanga,28/01/2025,24.0
+Bucaramanga,29/01/2025,24.6
+Bucaramanga,30/01/2025,24.5
+Bucaramanga,31/01/2025,24.2
+Cúcuta,01/01/2025,30.5
+Cúcuta,02/01/2025,29.9
+Cúcuta,03/01/2025,29.9
+Cúcuta,04/01/2025,29.9
+Cúcuta,05/01/2025,30.2
+Cúcuta,06/01/2025,29.6
+Cúcuta,07/01/2025,29.8
+Cúcuta,08/01/2025,30.1
+Cúcuta,09/01/2025,30.7
+Cúcuta,10/01/2025,30.1
+Cúcuta,11/01/2025,30.3
+Cúcuta,12/01/2025,30.1
+Cúcuta,13/01/2025,30.7
+Cúcuta,14/01/2025,30.3
+Cúcuta,15/01/2025,30.5
+Cúcuta,16/01/2025,29.8
+Cúcuta,17/01/2025,30.4
+Cúcuta,18/01/2025,30.3
+Cúcuta,19/01/2025,30.7
+Cúcuta,20/01/2025,30.2
+Cúcuta,21/01/2025,29.8
+Cúcuta,22/01/2025,30.6
+Cúcuta,23/01/2025,30.5
+Cúcuta,24/01/2025,30.7
+Cúcuta,25/01/2025,29.7
+Cúcuta,26/01/2025,30.3
+Cúcuta,27/01/2025,30.4
+Cúcuta,28/01/2025,29.7
+Cúcuta,29/01/2025,30.3
+Cúcuta,30/01/2025,30.7
+Cúcuta,31/01/2025,30.2
+Pereira,01/01/2025,22.4
+Pereira,02/01/2025,23.4
+Pereira,03/01/2025,22.3
+Pereira,04/01/2025,22.9
+Pereira,05/01/2025,22.4
+Pereira,06/01/2025,22.6
+Pereira,07/01/2025,23.3
+Pereira,08/01/2025,23.3
+Pereira,09/01/2025,22.5
+Pereira,10/01/2025,22.7
+Pereira,11/01/2025,23.2
+Pereira,12/01/2025,23.4
+Pereira,13/01/2025,22.4
+Pereira,14/01/2025,22.9
+Pereira,15/01/2025,23.1
+Pereira,16/01/2025,23.3
+Pereira,17/01/2025,22.8
+Pereira,18/01/2025,23.1
+Pereira,19/01/2025,22.4
+Pereira,20/01/2025,22.7
+Pereira,21/01/2025,22.5
+Pereira,22/01/2025,22.5
+Pereira,23/01/2025,23.3
+Pereira,24/01/2025,22.6
+Pereira,25/01/2025,23.2
+Pereira,26/01/2025,22.7
+Pereira,27/01/2025,22.8
+Pereira,28/01/2025,23.0
+Pereira,29/01/2025,22.6
+Pereira,30/01/2025,22.7
+Pereira,31/01/2025,22.3
+Manizales,01/01/2025,18.3
+Manizales,02/01/2025,18.6
+Manizales,03/01/2025,19.2
+Manizales,04/01/2025,18.9
+Manizales,05/01/2025,18.8
+Manizales,06/01/2025,19.4
+Manizales,07/01/2025,18.5
+Manizales,08/01/2025,18.7
+Manizales,09/01/2025,18.8
+Manizales,10/01/2025,19.4
+Manizales,11/01/2025,18.8
+Manizales,12/01/2025,18.3
+Manizales,13/01/2025,19.0
+Manizales,14/01/2025,19.0
+Manizales,15/01/2025,19.3
+Manizales,16/01/2025,19.4
+Manizales,17/01/2025,19.1
+Manizales,18/01/2025,19.3
+Manizales,19/01/2025,18.6
+Manizales,20/01/2025,18.4
+Manizales,21/01/2025,18.4
+Manizales,22/01/2025,19.1
+Manizales,23/01/2025,18.6
+Manizales,24/01/2025,18.5
+Manizales,25/01/2025,18.7
+Manizales,26/01/2025,18.8
+Manizales,27/01/2025,18.4
+Manizales,28/01/2025,19.2
+Manizales,29/01/2025,19.4
+Manizales,30/01/2025,18.5
+Manizales,31/01/2025,19.0
+Armenia,01/01/2025,22.4
+Armenia,02/01/2025,23.0
+Armenia,03/01/2025,22.6
+Armenia,04/01/2025,22.6
+Armenia,05/01/2025,23.1
+Armenia,06/01/2025,22.6
+Armenia,07/01/2025,23.1
+Armenia,08/01/2025,22.7
+Armenia,09/01/2025,22.6
+Armenia,10/01/2025,23.1
+Armenia,11/01/2025,23.0
+Armenia,12/01/2025,23.0
+Armenia,13/01/2025,22.8
+Armenia,14/01/2025,23.6
+Armenia,15/01/2025,23.5
+Armenia,16/01/2025,23.2
+Armenia,17/01/2025,23.4
+Armenia,18/01/2025,23.2
+Armenia,19/01/2025,23.5
+Armenia,20/01/2025,23.0
+Armenia,21/01/2025,23.6
+Armenia,22/01/2025,22.7
+Armenia,23/01/2025,22.8
+Armenia,24/01/2025,23.1
+Armenia,25/01/2025,23.2
+Armenia,26/01/2025,23.4
+Armenia,27/01/2025,23.5
+Armenia,28/01/2025,22.8
+Armenia,29/01/2025,23.5
+Armenia,30/01/2025,23.1
+Armenia,31/01/2025,23.6
+Ibagué,01/01/2025,26.6
+Ibagué,02/01/2025,26.5
+Ibagué,03/01/2025,26.4
+Ibagué,04/01/2025,25.5
+Ibagué,05/01/2025,25.8
+Ibagué,06/01/2025,26.1
+Ibagué,07/01/2025,26.0
+Ibagué,08/01/2025,26.7
+Ibagué,09/01/2025,25.6
+Ibagué,10/01/2025,25.8
+Ibagué,11/01/2025,26.4
+Ibagué,12/01/2025,26.0
+Ibagué,13/01/2025,26.0
+Ibagué,14/01/2025,26.5
+Ibagué,15/01/2025,26.1
+Ibagué,16/01/2025,26.3
+Ibagué,17/01/2025,25.6
+Ibagué,18/01/2025,26.3
+Ibagué,19/01/2025,26.7
+Ibagué,20/01/2025,26.1
+Ibagué,21/01/2025,26.4
+Ibagué,22/01/2025,26.2
+Ibagué,23/01/2025,26.3
+Ibagué,24/01/2025,26.6
+Ibagué,25/01/2025,26.4
+Ibagué,26/01/2025,26.5
+Ibagué,27/01/2025,25.9
+Ibagué,28/01/2025,25.5
+Ibagué,29/01/2025,26.6
+Ibagué,30/01/2025,26.0
+Ibagué,31/01/2025,25.9
+Neiva,01/01/2025,31.2
+Neiva,02/01/2025,31.0
+Neiva,03/01/2025,31.3
+Neiva,04/01/2025,30.9
+Neiva,05/01/2025,31.9
+Neiva,06/01/2025,31.1
+Neiva,07/01/2025,31.3
+Neiva,08/01/2025,31.2
+Neiva,09/01/2025,32.0
+Neiva,10/01/2025,31.9
+Neiva,11/01/2025,31.4
+Neiva,12/01/2025,31.7
+Neiva,13/01/2025,31.5
+Neiva,14/01/2025,32.0
+Neiva,15/01/2025,31.9
+Neiva,16/01/2025,32.0
+Neiva,17/01/2025,31.2
+Neiva,18/01/2025,31.8
+Neiva,19/01/2025,31.5
+Neiva,20/01/2025,32.1
+Neiva,21/01/2025,31.9
+Neiva,22/01/2025,31.5
+Neiva,23/01/2025,31.3
+Neiva,24/01/2025,31.9
+Neiva,25/01/2025,31.8
+Neiva,26/01/2025,31.2
+Neiva,27/01/2025,31.1
+Neiva,28/01/2025,32.0
+Neiva,29/01/2025,31.2
+Neiva,30/01/2025,31.2
+Neiva,31/01/2025,31.5
+Popayán,01/01/2025,19.8
+Popayán,02/01/2025,20.0
+Popayán,03/01/2025,19.5
+Popayán,04/01/2025,19.7
+Popayán,05/01/2025,19.5
+Popayán,06/01/2025,20.2
+Popayán,07/01/2025,19.2
+Popayán,08/01/2025,19.7
+Popayán,09/01/2025,20.1
+Popayán,10/01/2025,19.3
+Popayán,11/01/2025,19.6
+Popayán,12/01/2025,19.3
+Popayán,13/01/2025,20.2
+Popayán,14/01/2025,19.5
+Popayán,15/01/2025,19.5
+Popayán,16/01/2025,19.7
+Popayán,17/01/2025,20.4
+Popayán,18/01/2025,20.1
+Popayán,19/01/2025,19.4
+Popayán,20/01/2025,19.7
+Popayán,21/01/2025,20.3
+Popayán,22/01/2025,20.0
+Popayán,23/01/2025,20.3
+Popayán,24/01/2025,19.4
+Popayán,25/01/2025,19.5
+Popayán,26/01/2025,19.6
+Popayán,27/01/2025,19.4
+Popayán,28/01/2025,19.5
+Popayán,29/01/2025,19.4
+Popayán,30/01/2025,20.1
+Popayán,31/01/2025,19.3
+Pasto,01/01/2025,13.5
+Pasto,02/01/2025,13.3
+Pasto,03/01/2025,13.5
+Pasto,04/01/2025,14.1
+Pasto,05/01/2025,13.2
+Pasto,06/01/2025,14.2
+Pasto,07/01/2025,14.2
+Pasto,08/01/2025,13.4
+Pasto,09/01/2025,13.2
+Pasto,10/01/2025,14.2
+Pasto,11/01/2025,14.0
+Pasto,12/01/2025,14.0
+Pasto,13/01/2025,14.0
+Pasto,14/01/2025,13.8
+Pasto,15/01/2025,13.6
+Pasto,16/01/2025,14.3
+Pasto,17/01/2025,13.5
+Pasto,18/01/2025,13.7
+Pasto,19/01/2025,13.4
+Pasto,20/01/2025,13.7
+Pasto,21/01/2025,13.8
+Pasto,22/01/2025,14.2
+Pasto,23/01/2025,14.2
+Pasto,24/01/2025,13.2
+Pasto,25/01/2025,14.1
+Pasto,26/01/2025,13.2
+Pasto,27/01/2025,13.9
+Pasto,28/01/2025,14.3
+Pasto,29/01/2025,13.7
+Pasto,30/01/2025,14.0
+Pasto,31/01/2025,13.6
+Villavicencio,01/01/2025,28.1
+Villavicencio,02/01/2025,27.5
+Villavicencio,03/01/2025,28.0
+Villavicencio,04/01/2025,28.2
+Villavicencio,05/01/2025,28.2
+Villavicencio,06/01/2025,28.4
+Villavicencio,07/01/2025,28.1
+Villavicencio,08/01/2025,27.8
+Villavicencio,09/01/2025,28.4
+Villavicencio,10/01/2025,28.5
+Villavicencio,11/01/2025,27.6
+Villavicencio,12/01/2025,28.2
+Villavicencio,13/01/2025,28.5
+Villavicencio,14/01/2025,28.1
+Villavicencio,15/01/2025,28.0
+Villavicencio,16/01/2025,28.1
+Villavicencio,17/01/2025,27.5
+Villavicencio,18/01/2025,28.1
+Villavicencio,19/01/2025,28.2
+Villavicencio,20/01/2025,27.3
+Villavicencio,21/01/2025,28.0
+Villavicencio,22/01/2025,28.0
+Villavicencio,23/01/2025,28.1
+Villavicencio,24/01/2025,27.7
+Villavicencio,25/01/2025,27.7
+Villavicencio,26/01/2025,28.1
+Villavicencio,27/01/2025,27.8
+Villavicencio,28/01/2025,27.5
+Villavicencio,29/01/2025,27.3
+Villavicencio,30/01/2025,27.5
+Villavicencio,31/01/2025,27.7
+Yopal,01/01/2025,29.0
+Yopal,02/01/2025,29.3
+Yopal,03/01/2025,28.8
+Yopal,04/01/2025,29.5
+Yopal,05/01/2025,28.8
+Yopal,06/01/2025,29.3
+Yopal,07/01/2025,28.9
+Yopal,08/01/2025,28.8
+Yopal,09/01/2025,29.6
+Yopal,10/01/2025,29.9
+Yopal,11/01/2025,28.9
+Yopal,12/01/2025,29.8
+Yopal,13/01/2025,28.9
+Yopal,14/01/2025,29.3
+Yopal,15/01/2025,28.9
+Yopal,16/01/2025,29.4
+Yopal,17/01/2025,28.8
+Yopal,18/01/2025,29.1
+Yopal,19/01/2025,29.6
+Yopal,20/01/2025,29.0
+Yopal,21/01/2025,29.1
+Yopal,22/01/2025,29.0
+Yopal,23/01/2025,29.4
+Yopal,24/01/2025,29.2
+Yopal,25/01/2025,29.1
+Yopal,26/01/2025,29.5
+Yopal,27/01/2025,29.8
+Yopal,28/01/2025,29.1
+Yopal,29/01/2025,29.1
+Yopal,30/01/2025,28.9
+Yopal,31/01/2025,29.1
+Montería,01/01/2025,29.2
+Montería,02/01/2025,29.0
+Montería,03/01/2025,28.3
+Montería,04/01/2025,29.1
+Montería,05/01/2025,28.3
+Montería,06/01/2025,28.3
+Montería,07/01/2025,28.7
+Montería,08/01/2025,28.9
+Montería,09/01/2025,29.2
+Montería,10/01/2025,28.4
+Montería,11/01/2025,28.4
+Montería,12/01/2025,28.6
+Montería,13/01/2025,29.1
+Montería,14/01/2025,28.9
+Montería,15/01/2025,29.4
+Montería,16/01/2025,28.6
+Montería,17/01/2025,28.6
+Montería,18/01/2025,29.0
+Montería,19/01/2025,28.3
+Montería,20/01/2025,28.8
+Montería,21/01/2025,29.1
+Montería,22/01/2025,28.8
+Montería,23/01/2025,28.9
+Montería,24/01/2025,29.2
+Montería,25/01/2025,29.0
+Montería,26/01/2025,29.2
+Montería,27/01/2025,28.5
+Montería,28/01/2025,29.2
+Montería,29/01/2025,28.7
+Montería,30/01/2025,28.2
+Montería,31/01/2025,29.2
+Sincelejo,01/01/2025,28.7
+Sincelejo,02/01/2025,28.1
+Sincelejo,03/01/2025,28.3
+Sincelejo,04/01/2025,28.9
+Sincelejo,05/01/2025,28.1
+Sincelejo,06/01/2025,28.9
+Sincelejo,07/01/2025,28.0
+Sincelejo,08/01/2025,28.8
+Sincelejo,09/01/2025,29.0
+Sincelejo,10/01/2025,28.3
+Sincelejo,11/01/2025,28.1
+Sincelejo,12/01/2025,28.7
+Sincelejo,13/01/2025,28.2
+Sincelejo,14/01/2025,28.7
+Sincelejo,15/01/2025,28.5
+Sincelejo,16/01/2025,29.0
+Sincelejo,17/01/2025,28.7
+Sincelejo,18/01/2025,28.6
+Sincelejo,19/01/2025,28.9
+Sincelejo,20/01/2025,28.7
+Sincelejo,21/01/2025,28.5
+Sincelejo,22/01/2025,28.1
+Sincelejo,23/01/2025,28.3
+Sincelejo,24/01/2025,28.8
+Sincelejo,25/01/2025,28.8
+Sincelejo,26/01/2025,28.7
+Sincelejo,27/01/2025,28.2
+Sincelejo,28/01/2025,28.1
+Sincelejo,29/01/2025,28.8
+Sincelejo,30/01/2025,28.9
+Sincelejo,31/01/2025,28.9
+Valledupar,01/01/2025,29.7
+Valledupar,02/01/2025,29.8
+Valledupar,03/01/2025,30.1
+Valledupar,04/01/2025,30.4
+Valledupar,05/01/2025,29.5
+Valledupar,06/01/2025,29.9
+Valledupar,07/01/2025,29.6
+Valledupar,08/01/2025,29.8
+Valledupar,09/01/2025,30.1
+Valledupar,10/01/2025,30.3
+Valledupar,11/01/2025,29.6
+Valledupar,12/01/2025,30.3
+Valledupar,13/01/2025,29.7
+Valledupar,14/01/2025,29.7
+Valledupar,15/01/2025,30.1
+Valledupar,16/01/2025,30.2
+Valledupar,17/01/2025,30.3
+Valledupar,18/01/2025,29.9
+Valledupar,19/01/2025,29.4
+Valledupar,20/01/2025,29.7
+Valledupar,21/01/2025,30.1
+Valledupar,22/01/2025,29.9
+Valledupar,23/01/2025,29.5
+Valledupar,24/01/2025,30.6
+Valledupar,25/01/2025,29.4
+Valledupar,26/01/2025,30.5
+Valledupar,27/01/2025,29.9
+Valledupar,28/01/2025,29.9
+Valledupar,29/01/2025,30.4
+Valledupar,30/01/2025,30.3
+Valledupar,31/01/2025,30.3
+Riohacha,01/01/2025,29.6
+Riohacha,02/01/2025,29.6
+Riohacha,03/01/2025,29.3
+Riohacha,04/01/2025,30.3
+Riohacha,05/01/2025,29.6
+Riohacha,06/01/2025,29.9
+Riohacha,07/01/2025,30.2
+Riohacha,08/01/2025,29.6
+Riohacha,09/01/2025,30.0
+Riohacha,10/01/2025,29.7
+Riohacha,11/01/2025,29.3
+Riohacha,12/01/2025,29.5
+Riohacha,13/01/2025,29.6
+Riohacha,14/01/2025,30.2
+Riohacha,15/01/2025,29.7
+Riohacha,16/01/2025,29.7
+Riohacha,17/01/2025,29.2
+Riohacha,18/01/2025,29.9
+Riohacha,19/01/2025,29.2
+Riohacha,20/01/2025,29.7
+Riohacha,21/01/2025,29.7
+Riohacha,22/01/2025,29.1
+Riohacha,23/01/2025,30.1
+Riohacha,24/01/2025,29.5
+Riohacha,25/01/2025,30.0
+Riohacha,26/01/2025,30.0
+Riohacha,27/01/2025,29.8
+Riohacha,28/01/2025,29.4
+Riohacha,29/01/2025,29.6
+Riohacha,30/01/2025,29.6
+Riohacha,31/01/2025,29.4
+Quibdó,01/01/2025,26.5
+Quibdó,02/01/2025,26.5
+Quibdó,03/01/2025,26.8
+Quibdó,04/01/2025,26.1
+Quibdó,05/01/2025,26.6
+Quibdó,06/01/2025,26.7
+Quibdó,07/01/2025,26.2
+Quibdó,08/01/2025,26.4
+Quibdó,09/01/2025,26.6
+Quibdó,10/01/2025,26.3
+Quibdó,11/01/2025,26.7
+Quibdó,12/01/2025,26.0
+Quibdó,13/01/2025,26.3
+Quibdó,14/01/2025,25.8
+Quibdó,15/01/2025,26.3
+Quibdó,16/01/2025,27.0
+Quibdó,17/01/2025,25.8
+Quibdó,18/01/2025,26.1
+Quibdó,19/01/2025,27.0
+Quibdó,20/01/2025,26.9
+Quibdó,21/01/2025,26.0
+Quibdó,22/01/2025,26.7
+Quibdó,23/01/2025,26.2
+Quibdó,24/01/2025,25.9
+Quibdó,25/01/2025,26.3
+Quibdó,26/01/2025,26.6
+Quibdó,27/01/2025,26.9
+Quibdó,28/01/2025,26.3
+Quibdó,29/01/2025,25.8
+Quibdó,30/01/2025,26.5
+Quibdó,31/01/2025,26.1
+Florencia,01/01/2025,27.7
+Florencia,02/01/2025,27.7
+Florencia,03/01/2025,26.9
+Florencia,04/01/2025,27.3
+Florencia,05/01/2025,27.8
+Florencia,06/01/2025,27.1
+Florencia,07/01/2025,27.2
+Florencia,08/01/2025,27.1
+Florencia,09/01/2025,27.1
+Florencia,10/01/2025,26.9
+Florencia,11/01/2025,27.6
+Florencia,12/01/2025,27.5
+Florencia,13/01/2025,27.7
+Florencia,14/01/2025,27.8
+Florencia,15/01/2025,27.0
+Florencia,16/01/2025,27.2
+Florencia,17/01/2025,27.3
+Florencia,18/01/2025,26.8
+Florencia,19/01/2025,27.1
+Florencia,20/01/2025,27.0
+Florencia,21/01/2025,27.2
+Florencia,22/01/2025,27.7
+Florencia,23/01/2025,26.7
+Florencia,24/01/2025,27.0
+Florencia,25/01/2025,27.6
+Florencia,26/01/2025,27.6
+Florencia,27/01/2025,26.7
+Florencia,28/01/2025,27.7
+Florencia,29/01/2025,27.0
+Florencia,30/01/2025,27.8
+Florencia,31/01/2025,27.6
+Mocoa,01/01/2025,25.0
+Mocoa,02/01/2025,24.5
+Mocoa,03/01/2025,24.4
+Mocoa,04/01/2025,24.6
+Mocoa,05/01/2025,25.1
+Mocoa,06/01/2025,24.1
+Mocoa,07/01/2025,24.7
+Mocoa,08/01/2025,24.6
+Mocoa,09/01/2025,24.7
+Mocoa,10/01/2025,24.9
+Mocoa,11/01/2025,25.0
+Mocoa,12/01/2025,24.8
+Mocoa,13/01/2025,25.1
+Mocoa,14/01/2025,24.5
+Mocoa,15/01/2025,25.0
+Mocoa,16/01/2025,25.1
+Mocoa,17/01/2025,24.8
+Mocoa,18/01/2025,24.2
+Mocoa,19/01/2025,24.9
+Mocoa,20/01/2025,24.6
+Mocoa,21/01/2025,25.2
+Mocoa,22/01/2025,24.9
+Mocoa,23/01/2025,24.5
+Mocoa,24/01/2025,24.2
+Mocoa,25/01/2025,24.6
+Mocoa,26/01/2025,24.5
+Mocoa,27/01/2025,24.9
+Mocoa,28/01/2025,24.3
+Mocoa,29/01/2025,25.1
+Mocoa,30/01/2025,24.6
+Mocoa,31/01/2025,24.8
+San José del Guaviare,01/01/2025,27.3
+San José del Guaviare,02/01/2025,27.0
+San José del Guaviare,03/01/2025,27.1
+San José del Guaviare,04/01/2025,27.7
+San José del Guaviare,05/01/2025,27.7
+San José del Guaviare,06/01/2025,27.4
+San José del Guaviare,07/01/2025,28.0
+San José del Guaviare,08/01/2025,27.5
+San José del Guaviare,09/01/2025,27.3
+San José del Guaviare,10/01/2025,28.0
+San José del Guaviare,11/01/2025,27.4
+San José del Guaviare,12/01/2025,27.1
+San José del Guaviare,13/01/2025,27.2
+San José del Guaviare,14/01/2025,27.0
+San José del Guaviare,15/01/2025,27.8
+San José del Guaviare,16/01/2025,27.5
+San José del Guaviare,17/01/2025,27.1
+San José del Guaviare,18/01/2025,27.2
+San José del Guaviare,19/01/2025,27.7
+San José del Guaviare,20/01/2025,26.9
+San José del Guaviare,21/01/2025,27.5
+San José del Guaviare,22/01/2025,27.5
+San José del Guaviare,23/01/2025,27.1
+San José del Guaviare,24/01/2025,27.3
+San José del Guaviare,25/01/2025,27.6
+San José del Guaviare,26/01/2025,27.7
+San José del Guaviare,27/01/2025,27.5
+San José del Guaviare,28/01/2025,27.3
+San José del Guaviare,29/01/2025,27.4
+San José del Guaviare,30/01/2025,28.1
+San José del Guaviare,31/01/2025,27.9
+Mitú,01/01/2025,26.9
+Mitú,02/01/2025,27.2
+Mitú,03/01/2025,27.3
+Mitú,04/01/2025,26.7
+Mitú,05/01/2025,26.4
+Mitú,06/01/2025,27.3
+Mitú,07/01/2025,27.1
+Mitú,08/01/2025,27.1
+Mitú,09/01/2025,27.3
+Mitú,10/01/2025,27.0
+Mitú,11/01/2025,26.7
+Mitú,12/01/2025,27.3
+Mitú,13/01/2025,26.9
+Mitú,14/01/2025,26.4
+Mitú,15/01/2025,27.3
+Mitú,16/01/2025,26.9
+Mitú,17/01/2025,27.2
+Mitú,18/01/2025,26.8
+Mitú,19/01/2025,27.3
+Mitú,20/01/2025,26.8
+Mitú,21/01/2025,26.5
+Mitú,22/01/2025,27.5
+Mitú,23/01/2025,27.2
+Mitú,24/01/2025,27.4
+Mitú,25/01/2025,27.5
+Mitú,26/01/2025,27.1
+Mitú,27/01/2025,27.0
+Mitú,28/01/2025,27.0
+Mitú,29/01/2025,27.4
+Mitú,30/01/2025,27.4
+Mitú,31/01/2025,26.6
+Inírida,01/01/2025,26.9
+Inírida,02/01/2025,26.7
+Inírida,03/01/2025,27.3
+Inírida,04/01/2025,27.5
+Inírida,05/01/2025,26.8
+Inírida,06/01/2025,27.1
+Inírida,07/01/2025,27.6
+Inírida,08/01/2025,26.5
+Inírida,09/01/2025,26.5
+Inírida,10/01/2025,27.2
+Inírida,11/01/2025,27.7
+Inírida,12/01/2025,26.6
+Inírida,13/01/2025,27.0
+Inírida,14/01/2025,26.8
+Inírida,15/01/2025,26.6
+Inírida,16/01/2025,27.2
+Inírida,17/01/2025,27.5
+Inírida,18/01/2025,27.2
+Inírida,19/01/2025,26.7
+Inírida,20/01/2025,27.6
+Inírida,21/01/2025,27.1
+Inírida,22/01/2025,27.2
+Inírida,23/01/2025,26.7
+Inírida,24/01/2025,27.3
+Inírida,25/01/2025,26.7
+Inírida,26/01/2025,27.6
+Inírida,27/01/2025,27.5
+Inírida,28/01/2025,27.2
+Inírida,29/01/2025,26.6
+Inírida,30/01/2025,27.3
+Inírida,31/01/2025,26.9
+Puerto Carreño,01/01/2025,27.7
+Puerto Carreño,02/01/2025,28.1
+Puerto Carreño,03/01/2025,27.9
+Puerto Carreño,04/01/2025,28.0
+Puerto Carreño,05/01/2025,28.9
+Puerto Carreño,06/01/2025,28.5
+Puerto Carreño,07/01/2025,28.4
+Puerto Carreño,08/01/2025,28.0
+Puerto Carreño,09/01/2025,28.2
+Puerto Carreño,10/01/2025,27.8
+Puerto Carreño,11/01/2025,28.3
+Puerto Carreño,12/01/2025,27.8
+Puerto Carreño,13/01/2025,28.2
+Puerto Carreño,14/01/2025,27.8
+Puerto Carreño,15/01/2025,28.7
+Puerto Carreño,16/01/2025,28.6
+Puerto Carreño,17/01/2025,28.5
+Puerto Carreño,18/01/2025,28.5
+Puerto Carreño,19/01/2025,28.1
+Puerto Carreño,20/01/2025,28.7
+Puerto Carreño,21/01/2025,28.6
+Puerto Carreño,22/01/2025,28.5
+Puerto Carreño,23/01/2025,28.9
+Puerto Carreño,24/01/2025,28.4
+Puerto Carreño,25/01/2025,28.5
+Puerto Carreño,26/01/2025,28.0
+Puerto Carreño,27/01/2025,28.6
+Puerto Carreño,28/01/2025,28.0
+Puerto Carreño,29/01/2025,28.8
+Puerto Carreño,30/01/2025,28.3
+Puerto Carreño,31/01/2025,27.9
+Tunja,01/01/2025,12.8
+Tunja,02/01/2025,12.9
+Tunja,03/01/2025,13.0
+Tunja,04/01/2025,13.4
+Tunja,05/01/2025,12.5
+Tunja,06/01/2025,12.6
+Tunja,07/01/2025,12.9
+Tunja,08/01/2025,13.4
+Tunja,09/01/2025,13.0
+Tunja,10/01/2025,13.2
+Tunja,11/01/2025,13.0
+Tunja,12/01/2025,13.4
+Tunja,13/01/2025,13.2
+Tunja,14/01/2025,13.1
+Tunja,15/01/2025,13.1
+Tunja,16/01/2025,12.3
+Tunja,17/01/2025,13.1
+Tunja,18/01/2025,13.2
+Tunja,19/01/2025,12.9
+Tunja,20/01/2025,13.2
+Tunja,21/01/2025,13.2
+Tunja,22/01/2025,12.6
+Tunja,23/01/2025,13.0
+Tunja,24/01/2025,13.1
+Tunja,25/01/2025,13.2
+Tunja,26/01/2025,13.4
+Tunja,27/01/2025,12.6
+Tunja,28/01/2025,12.4
+Tunja,29/01/2025,12.9
+Tunja,30/01/2025,12.2
+Tunja,31/01/2025,12.5
+Arauca,01/01/2025,29.3
+Arauca,02/01/2025,29.8
+Arauca,03/01/2025,29.7
+Arauca,04/01/2025,30.1
+Arauca,05/01/2025,29.6
+Arauca,06/01/2025,30.2
+Arauca,07/01/2025,29.2
+Arauca,08/01/2025,29.3
+Arauca,09/01/2025,29.9
+Arauca,10/01/2025,29.1
+Arauca,11/01/2025,29.3
+Arauca,12/01/2025,29.1
+Arauca,13/01/2025,30.1
+Arauca,14/01/2025,30.2
+Arauca,15/01/2025,29.3
+Arauca,16/01/2025,30.1
+Arauca,17/01/2025,30.0
+Arauca,18/01/2025,29.1
+Arauca,19/01/2025,29.6
+Arauca,20/01/2025,29.2
+Arauca,21/01/2025,29.8
+Arauca,22/01/2025,30.2
+Arauca,23/01/2025,29.4
+Arauca,24/01/2025,30.1
+Arauca,25/01/2025,29.2
+Arauca,26/01/2025,29.8
+Arauca,27/01/2025,29.9
+Arauca,28/01/2025,29.6
+Arauca,29/01/2025,29.1
+Arauca,30/01/2025,29.2
+Arauca,31/01/2025,30.1
+Leticia,01/01/2025,26.4
+Leticia,02/01/2025,27.3
+Leticia,03/01/2025,27.0
+Leticia,04/01/2025,27.0
+Leticia,05/01/2025,27.0
+Leticia,06/01/2025,26.5
+Leticia,07/01/2025,26.4
+Leticia,08/01/2025,26.6
+Leticia,09/01/2025,27.4
+Leticia,10/01/2025,26.9
+Leticia,11/01/2025,26.8
+Leticia,12/01/2025,26.3
+Leticia,13/01/2025,26.9
+Leticia,14/01/2025,27.2
+Leticia,15/01/2025,27.2
+Leticia,16/01/2025,27.1
+Leticia,17/01/2025,27.1
+Leticia,18/01/2025,27.2
+Leticia,19/01/2025,27.3
+Leticia,20/01/2025,26.6
+Leticia,21/01/2025,27.3
+Leticia,22/01/2025,26.8
+Leticia,23/01/2025,26.4
+Leticia,24/01/2025,27.2
+Leticia,25/01/2025,27.0
+Leticia,26/01/2025,26.2
+Leticia,27/01/2025,27.3
+Leticia,28/01/2025,26.5
+Leticia,29/01/2025,27.4
+Leticia,30/01/2025,27.1
+Leticia,31/01/2025,26.7
+San Andrés,01/01/2025,28.8
+San Andrés,02/01/2025,28.8
+San Andrés,03/01/2025,29.3
+San Andrés,04/01/2025,29.1
+San Andrés,05/01/2025,28.9
+San Andrés,06/01/2025,28.8
+San Andrés,07/01/2025,29.0
+San Andrés,08/01/2025,28.8
+San Andrés,09/01/2025,28.3
+San Andrés,10/01/2025,29.0
+San Andrés,11/01/2025,29.4
+San Andrés,12/01/2025,29.3
+San Andrés,13/01/2025,28.8
+San Andrés,14/01/2025,29.5
+San Andrés,15/01/2025,29.0
+San Andrés,16/01/2025,28.4
+San Andrés,17/01/2025,29.4
+San Andrés,18/01/2025,28.5
+San Andrés,19/01/2025,29.0
+San Andrés,20/01/2025,29.5
+San Andrés,21/01/2025,28.4
+San Andrés,22/01/2025,28.7
+San Andrés,23/01/2025,29.2
+San Andrés,24/01/2025,28.9
+San Andrés,25/01/2025,28.6
+San Andrés,26/01/2025,29.4
+San Andrés,27/01/2025,28.7
+San Andrés,28/01/2025,29.5
+San Andrés,29/01/2025,28.4
+San Andrés,30/01/2025,29.0
+San Andrés,31/01/2025,29.1
